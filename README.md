@@ -4,7 +4,7 @@
 ## Introduction
 use MetaMask to Deploy a Smart contract in Solidity (Blockchain).
 
-Link of the deployed app: [https://ephemeral-buttercream-402bfb.netlify.app/]
+Link of the deployed app: [KRYPTO.NITE](ephemeral-buttercream-402bfb.netlify.app/)
 
 
 
