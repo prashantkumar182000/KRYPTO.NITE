@@ -11,6 +11,6 @@ Link of the deployed app: [KRYPTO.NITE](https://ephemeral-buttercream-402bfb.net
 
 
 
-Project created in collaboration with Mayukh Mukhopadhyay.
+Project created in collaboration with ## Mayukh Mukhopadhyay.
 
 
