@@ -9,8 +9,8 @@ use MetaMask to Deploy a Smart contract in Solidity (Blockchain).
 Link of the deployed app: [KRYPTO.NITE](https://ephemeral-buttercream-402bfb.netlify.app/)
 
 
-Link of the deployed app: [KRYPTO.NITE 2.0](https://krypton8.netlify.app/)
-Watch the introduction to the Application: [Loom Video](https://www.loom.com/share/92fa25ad36934779810ff256700e7e5a?sid=1c7d532b-ce3e-487d-bd12-87daef9c98b4)
+Link of the deployed app: [KRYPTO.NITE 2.0](https://krypton8.netlify.app/) \\
+Watch the introduction to the Application: [Click Here](https://www.loom.com/share/92fa25ad36934779810ff256700e7e5a?sid=1c7d532b-ce3e-487d-bd12-87daef9c98b4)
 
 Project created in collaboration with ## Mayukh Mukhopadhyay.
 
