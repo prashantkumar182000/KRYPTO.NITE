@@ -1,4 +1,4 @@
-#[KRYPTO.NITE](https://ephemeral-buttercream-402bfb.netlify.app/) - Web 3.0 Blockchain Application
+Latest Update: [KRYPTO.NITE](https://krypton8.netlify.app/) - Web 3.0 Blockchain Application
 
 
 ![Krypt](https://iili.io/HjR9tKg.md.png)
